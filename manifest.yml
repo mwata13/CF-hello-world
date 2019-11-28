@@ -5,4 +5,3 @@ applications:
   memory: 64M
   disk_quota: 256M
   instances: 1
-  credencialsId: '04e64a3f-2ff5-43b4-a0d9-b7f1c08e650a'
